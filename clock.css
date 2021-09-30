@@ -1,0 +1,19 @@
+body,html{
+   background-color:rgb(44, 44, 44);
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    height:100%;
+}
+
+input{ 
+    width: 400px;
+    height:50px;
+    text-align: center;
+    font-family:"Alagard";
+    color: red;
+    font-size: 30px;
+    background-color: rgb(0, 0, 0);
+    border: 3px solid #3a3a3a;
+
+}
